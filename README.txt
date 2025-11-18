@@ -6,7 +6,9 @@ Project Title:
 Map Coloring Solver using CSP Algorithms (Backtracking, MRV, Forward Checking)
 
 Prepared By:
+Sumaiya Naz
 Zainab Noor
+Souda Bibi
 
 Course:
 Artificial Intelligence – Semester Project
@@ -70,5 +72,6 @@ Each script will show colored map outputs and performance comparisons.
 ------------------------------------------------------------
 This project was completed as part of Artificial Intelligence coursework,
 demonstrating CSP and heuristic optimization techniques for real-world map problems.
+
 
 ============================================================
